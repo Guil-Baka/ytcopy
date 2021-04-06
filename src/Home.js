@@ -29,6 +29,7 @@ function Home() {
         <Button color='inherit'>Login</Button>
       </Toolbar>
     </AppBar>
+    
   </div>
   
   );
